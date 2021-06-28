@@ -14,7 +14,7 @@
 
     <project path="device/xiaomi/msm8953" name="Rohith-Pillalamarri/device_xiaomi_msm8953-common" remote="oxygen" revision="xtended" />
     
-    <project path="kernel/xiaomi/oxygen" name="MaheshTechnicals/Kernel_xiaomi_oxygen" remote="oxygen" revision="xtended" />
+    <project path="kernel/xiaomi/oxygen" name="Rohith-Pillalamarri/HRKernel_xiaomi_oxygen" remote="oxygen" revision="oxygen-pro" />
 
     <project path="vendor/xiaomi" name="Rohith-Pillalamarri/vendor_xiaomi_oxygen" remote="oxygen" revision="ten" />
 </manifest>
