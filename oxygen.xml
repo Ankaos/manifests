@@ -10,9 +10,9 @@
 
     <project path="vendor/xiaomi" name="MaheshTechnicals/android_vendor_oxygen" remote="oxygen" revision="lineage" /-->
     
-    <project path="device/xiaomi" name="Rohith-Pillalamarri/device_xiaomi_oxygen" remote="oxygen" revision="xtended" />
+    <project path="device/xiaomi/oxygen" name="Rohith-Pillalamarri/device_xiaomi_oxygen" remote="oxygen" revision="xtended" />
 
-    <project path="device/xiaomi/msm8953" name="Rohith-Pillalamarri/device_xiaomi_msm8953-common" remote="oxygen" revision="xtended" />
+    <project path="device/xiaomi/msm8953-common" name="Rohith-Pillalamarri/device_xiaomi_msm8953-common" remote="oxygen" revision="xtended" />
     
     <project path="kernel/xiaomi/oxygen" name="Sanek-creed/android_kernel_xiaomi_msm8953" remote="oxygen" revision="havoc-pie" />
 
